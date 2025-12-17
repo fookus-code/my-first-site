@@ -1,0 +1,55 @@
+body{
+  font-family: arial, San-serif;
+  font-size: 100%;
+  background: Orchid;
+}
+ul{
+  margin: 0;
+  padding: 0;
+}
+ul li{
+  list-style-type: none;
+}
+a{
+  text-decoration: none;
+}
+header{
+  padding: 50px 0;
+  background-color: Orange;
+}
+h1, h2{
+  color: DarkOrange;
+  text-align: center;
+}
+nav{
+  background-color: Tomato;
+  border: DarkRed;
+  min-height: 64px
+}
+nav li{
+  float: left;
+  width: 100px;
+}
+nav a{
+  display: block;
+  color: lightcoral;
+  line-height: 4em;
+  font-weight: bold;
+  text-align: center;
+}
+nav li a:nover{
+  color: indigo;
+  background-color: mediumvioletred;
+}
+p{
+  font-size: 16px;
+  line-height: 1.3;
+  margin-top: 0.1em;
+  color: pink;
+}
+footer{
+  background-color: Teal;
+  color: DarkTurquoise;
+  padding: 20px;
+  margin-top: 30px;
+}
